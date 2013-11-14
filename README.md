@@ -23,12 +23,18 @@ RULES:
     2.  Import the csv file into that database
     3.  Create a table view, with a detail view below in html/php (see mockup)
     4.  The table should be loaded via REST calls to another PHP page.
-    5.  Clicking on a cell in the table should populate the detail view with the record information and text.
-    6a.  All elements should have id's/classes and should be in DIV or SPAN tags, all style should be handled via a linked CSS file.
-    6b.  The table can be a &lt;table&gt; tag, but extra consideration for an all-DIV   solution.
-    7.  All data fetching and display should be via REST/JQuery/CSS.  Your Jquery version preference.
-    8.  Additional consideration for a button that executes basic jQuery code that tests the functionality.
-    9.  FINALLY, your code must be made available on github when complete (export the MySQL database via mysqldump into a human readable .sql file) - for review.
+    5.  Clicking on a cell in the table should populate the detail view with the record 
+        information and text.
+    6a.  All elements should have id's/classes and should be in DIV or SPAN tags, all 
+        style should be handled via a linked CSS file.
+    6b.  The table can be a &lt;table&gt; tag, but extra consideration for an all-DIV   
+        solution.
+    7.  All data fetching and display should be via REST/JQuery/CSS.  Your Jquery version 
+        preference.
+    8.  Additional consideration for a button that executes basic jQuery code that tests 
+        the functionality.
+    9.  FINALLY, your code must be made available on github when complete (export the 
+        MySQL database via mysqldump into a human readable .sql file) - for review.
     10. Additional consideration for a publically available website running your solution.
     11. All Javascript, CSS, services, should be in external linked files.
 
