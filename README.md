@@ -3,6 +3,7 @@ LAMP+jQuery+AJAX/JSON/REST+html+CSS Coding interview
 
 This is a basic coding skills assessment for an interview.  A small simple project to show off your skills, and/or provide a starting point to learn the skills necessary to fill a particular position.
 
+```
 Skills required:    1. Git
     2. Linux, Apache, Mysql, PHP - the basic LAMP stack
     3. jQuery/Ajax/REST familiarity
@@ -31,4 +32,4 @@ Materials:    1. A CSV file containing some mock data (names and addresses, and
 
 NOTE:  We are not concerned with your experience in any of the given technologies provided you can accomplish the task as outlined.  If you don't know something, use google and the internet, and learn how to do it.  Plagiarism will result in you being barred from the possibility of an interview.  It's not hard, just do your own work.
 
-
+```
