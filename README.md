@@ -27,7 +27,7 @@ RULES:
         information and text.
     6a.  All elements should have id's/classes and should be in DIV or SPAN tags, all 
         style should be handled via a linked CSS file.
-    6b.  The table can be a &lt;table&gt; tag, but extra consideration for an all-DIV   
+    6b.  The table can be a <table> tag, but extra consideration for an all-DIV   
         solution.
     7.  All data fetching and display should be via REST/JQuery/CSS.  Your Jquery version 
         preference.
